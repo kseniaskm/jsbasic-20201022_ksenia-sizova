@@ -18,7 +18,6 @@ function isValid(name) {
   }
 }
 
-
 function sayHello() {
   let userName = prompt('Введите ваше имя');
 
