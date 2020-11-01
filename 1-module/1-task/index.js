@@ -8,7 +8,6 @@ function factorial(n) {
   if (n != 0) {
     for (let i = n - 1; i > 0; i--) {
       n = n * i;
-
     }
     return n;
   } else {
